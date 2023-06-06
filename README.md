@@ -1,2 +1,2 @@
-# InstagramReelDownloader
-downloades instagram reels via url using seleniu.
+# Instagram Reel Downloader
+downloads instagram reels via url using seleniu.
