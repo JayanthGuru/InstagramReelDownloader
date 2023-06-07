@@ -9,26 +9,26 @@ step-1: Open cmd from search.
 
 step-2: Installing virtualenv for creating a virtual environment.
 
-''' python
+'''python
 pip install virtualenv
 virtualenv venv
 '''
 
 step-3: Activating virtual environment.
 
-''' python
+'''python
 venv/scripts/activate
 '''
 
 step-4: Installing all the required modules (i.e. dependences).
 
-''' python
+'''python
 pip install -r requirements.txt
 '''
 
 step-5: Running the reelDownloader.py
 
-''' python
+'''python
 python reelDownloader.py
 '''
 
