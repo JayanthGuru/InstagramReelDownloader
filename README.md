@@ -6,6 +6,7 @@ downloads instagram reels via url using selenium.
 step-1: Cloning the repo.
 
 > git clone https://github.com/JayanthGuru/InstagramReelDownloader.git
+> 
 > cd InstagramReelDownloader 
 
 
