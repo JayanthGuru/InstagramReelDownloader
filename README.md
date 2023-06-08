@@ -3,34 +3,30 @@ downloads instagram reels via url using selenium.
 
 [Windows version]
 
-##Run Application using cmd
+step-1: Cloning the repo.
 
-step-1: Open cmd from search. 
+> git clone https://github.com/JayanthGuru/InstagramReelDownloader.git
+> cd InstagramReelDownloader 
+
 
 step-2: Installing virtualenv for creating a virtual environment.
 
-'''sh
-pip install virtualenv
-virtualenv venv
-'''
+> pip install virtualenv
+
+> virtualenv venv
+
 
 step-3: Activating virtual environment.
 
-'''python
-venv/scripts/activate
-'''
+> venv/scripts/activate
 
 step-4: Installing all the required modules (i.e. dependences).
 
-'''python
-pip install -r requirements.txt
-'''
+> pip install -r requirements.txt
 
 step-5: Running the reelDownloader.py
 
-'''python
-python reelDownloader.py
-'''
+> python reelDownloader.py
 
 
 ## Install it via Exe file.
