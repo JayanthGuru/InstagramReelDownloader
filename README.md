@@ -10,14 +10,14 @@ step-1: Cloning the repo.
 > cd InstagramReelDownloader 
 
 
-step-2: Installing virtualenv for creating a virtual environment.
+step-2: Installing virtualenv for creating a virtual environment. (*optional*)
 
 > pip install virtualenv
 >
 > virtualenv venv
 
 
-step-3: Activating virtual environment.
+step-3: Activating virtual environment. (*optional*)
 
 > venv/scripts/activate
 
