@@ -2,7 +2,6 @@
 
 Welcome to my project! With just a few simple steps, you can easily download Instagram reels using the power of Selenium. All you need is the URL of the desired reel. Simply paste the URL, specify the download location, and click on the download button. It's that easy to capture and save your favorite Instagram reels for offline enjoyment.
 
-[Windows version]
 
 step-1: Cloning the repo.
 
@@ -29,19 +28,6 @@ step-4: Installing all the required modules.
 step-5: Running the reelDownloader.py
 
 > python reelDownloader.py
-
-
-## Windows
-
-[Description of steps for Windows]
-
-## Mac
-
-{% if not windows %}
-
-[Description of steps for Mac]
-
-{% endif %}
 
 
 ## Install it via Exe file.
