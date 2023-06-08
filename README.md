@@ -9,7 +9,7 @@ step-1: Open cmd from search.
 
 step-2: Installing virtualenv for creating a virtual environment.
 
-'''Python
+'''sh
 pip install virtualenv
 virtualenv venv
 '''
