@@ -21,7 +21,7 @@ step-3: Activating virtual environment. (*optional*)
 
 > venv/scripts/activate
 
-step-4: Installing all the required modules (i.e. dependences).
+step-4: Installing all the required modules.
 
 > pip install -r requirements.txt
 
