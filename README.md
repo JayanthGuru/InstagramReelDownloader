@@ -31,4 +31,4 @@ step-5: Running the reelDownloader.py
 
 
 ## Install it via Exe file.
-Use the link to download the application: [Application link](https://drive.google.com/file/d/1yJ3TYblkojv9JUpk2JIEhkeEgl0-wYkv/view?usp=sharing)
+Use the link to download the application: [Application link](https://drive.google.com/file/d/1itAmpZk17-yzDJIJopJYWGfBd0DgiKe0/view?usp=sharing)
