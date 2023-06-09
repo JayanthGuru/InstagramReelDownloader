@@ -27,7 +27,7 @@ step-4: Installing all the required modules.
 
 step-5: Running the reelDownloader.py
 
-> python reelDownloader.py
+> python [reel_downloader_v1.0.0.py](https://github.com/JayanthGuru/InstagramReelDownloader/blob/main/reel_downloader_v1.0.0.py)
 
 
 ## Install it via Exe file.
