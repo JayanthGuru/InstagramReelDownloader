@@ -155,14 +155,15 @@ class ReelDownloader:
         """This function opens the chrome browser and then goes to Gardian url and then uses selenium to fill the reel_url and click download button and then get reel_name and single_link to download the reel"""
 
         try:
-            service = Service('path/to/chromedriver')
-            service.creationflags = CREATE_NO_WINDOW
+            #service = Service('path/to/chromedriver')
+            #service.creationflags = CREATE_NO_WINDOW
             
             chrome_options = Options()
             chrome_options.add_argument("--headless")
             chrome_options.add_argument("--user-agent=Your Custom User Agent")
-
-            driver = webdriver.Chrome(service=service, options=chrome_options)
+            
+            # driver = webdriver.Chrome(service=service, options=chrome_options)
+            driver = webdriver.Chrome(options=chrome_options)
             driver.get(self.guardian_url)
 
             time.sleep(2)
